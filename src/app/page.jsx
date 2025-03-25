@@ -153,7 +153,7 @@ function MainComponent() {
     {
       title: "Website Design",
       description: "Moderne und responsive Webseiten mit innovativem Design",
-      image: "https://i.postimg.cc/RFzTs2d1/finished.jpg",
+      image: "https://i.postimg.cc/8cKGqVrJ/finished.png",
     },
   ];
   const scrollToSection = (sectionId) => {
