@@ -146,9 +146,14 @@ function MainComponent() {
       image: "https://i.postimg.cc/FFGGDqP2/full-picture.jpg",
     },
     {
+      title: "Python Development",
+      description: "Moderne und responsive Webseiten mit innovativem Design",
+      image: "https://i.postimg.cc/brwQgQh0/finished.png",
+    },
+    {
       title: "Website Design",
       description: "Moderne und responsive Webseiten mit innovativem Design",
-      image: "https://i.postimg.cc/WzTtg551/cloudflare-filestorage.jpg",
+      image: "https://i.postimg.cc/RFzTs2d1/finished.jpg",
     },
   ];
   const scrollToSection = (sectionId) => {
@@ -361,6 +366,19 @@ function MainComponent() {
                 className="glass-card p-6 rounded-lg transform hover:scale-105 transition-all cursor-pointer"
                 onMouseEnter={() => setIsHovering(true)}
                 onMouseLeave={() => setIsHovering(false)}
+                onClick={() => {
+                  if (index === 0) {
+                    window.open(
+                      "https://de.fiverr.com/s/ljg445a",
+                      "_blank"
+                    );
+                  } else if (index === 1) {
+                    window.open(
+                      "https://de.fiverr.com/s/o8L770L",
+                      "_blank"
+                    );
+                  }
+                }}
               >
                 <img
                   src={service.image}
