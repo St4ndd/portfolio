@@ -125,7 +125,7 @@ function MainComponent() {
     {
       title: "Cloudflare Database",
       description: "C# Extention for Cloudflare Database",
-      image: "https://i.postimg.cc/WzTtg551/cloudflare-filestorage.jpg",
+      image: "https://i.postimg.cc/NjJ2vbnZ/cloudflare-filestorage.jpg",
     },
     {
       title: "Supabse C# Example",
@@ -136,6 +136,11 @@ function MainComponent() {
       title: "Supabase Node.js Example",
       description: "Administrate your Supabase Database with Node.js Webserver",
       image: "https://i.postimg.cc/DwkLB3Bx/nodejs-supabase.jpg",
+    },
+    {
+      title: "Cloudflare Filestorage",
+      description: "C# Extention for Cloudflare Filestorage",
+      image: "https://i.postimg.cc/s2PXDcHV/cloudflare-Storage.png",
     },
   ];
   const services = [
