@@ -147,17 +147,17 @@ function MainComponent() {
     {
       title: "C# Development",
       description:
-        "Entwicklung von maßgeschneiderten C# Anwendungen und Backend-Systemen",
+        "Development of custom C# applications and backend systems",
       image: "https://i.postimg.cc/FFGGDqP2/full-picture.jpg",
     },
     {
       title: "Python Development",
-      description: "Moderne und responsive Webseiten mit innovativem Design",
+      description: "Scalable and efficient Python development for modern applications and backend systems.",
       image: "https://i.postimg.cc/brwQgQh0/finished.png",
     },
     {
       title: "Website Design",
-      description: "Moderne und responsive Webseiten mit innovativem Design",
+      description: "Modern and responsive websites with innovative design",
       image: "https://i.postimg.cc/8cKGqVrJ/finished.png",
     },
   ];
