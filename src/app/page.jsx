@@ -79,7 +79,7 @@ function MainComponent() {
   const skillCategories = {
     Frontend: {
       name: "Frontend",
-      level: 95,
+      level: 85,
       skills: [
         { name: "React", level: 95 },
         { name: "Next.js", level: 90 },
@@ -88,7 +88,7 @@ function MainComponent() {
     },
     Backend: {
       name: "Backend",
-      level: 90,
+      level: 82,
       skills: [
         { name: "Node.js", level: 80 },
         { name: "sql", level: 70 },
@@ -98,7 +98,7 @@ function MainComponent() {
     },
     "Cloud & DevOps": {
       name: "Cloud & DevOps",
-      level: 6,
+      level: 5,
       skills: [
         { name: "AWS", level: 10 },
         { name: "Docker", level: 3 },
@@ -108,7 +108,7 @@ function MainComponent() {
     },
     Languages: {
       name: "Languages",
-      level: 82,
+      level: 83,
       skills: [
         { name: "Python", level: 95 },
         { name: "C#", level: 95 },
