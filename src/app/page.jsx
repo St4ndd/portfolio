@@ -415,6 +415,7 @@ function MainComponent() {
                     name: "LinkedIn",
                     url: "https://www.linkedin.com/in/johannes-hehl-0591902b2",
                   },
+                  { name: "Fiverr", url: "https://de.fiverr.com/s/YRaAXk4" },
                 ].map((social) => (
                   <a
                     key={social.name}
