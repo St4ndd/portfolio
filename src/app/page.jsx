@@ -376,13 +376,18 @@ function MainComponent() {
                     window.open(
                       "https://de.fiverr.com/s/ljg445a",
                       "_blank"
-                    );
+                    ); 
                   } else if (index === 1) {
+                    window.open(
+                      "https://de.fiverr.com/s/1q3Dvj9",
+                      "_blank"
+                    );
+                  } else if (index === 2) {
                     window.open(
                       "https://de.fiverr.com/s/o8L770L",
                       "_blank"
                     );
-                  }
+                  } 
                 }}
               >
                 <img
